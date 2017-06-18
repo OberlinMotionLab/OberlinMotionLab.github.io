@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Oberlin Motion Lab</title>
+    <link>/</link>
+    <description>Recent content on Oberlin Motion Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 18 Jun 2017 00:32:39 -0400</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>test3</title>
+      <link>/gallery/test3/</link>
+      <pubDate>Sun, 18 Jun 2017 00:32:39 -0400</pubDate>
+      
+      <guid>/gallery/test3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>test2</title>
+      <link>/gallery/test2/</link>
+      <pubDate>Sun, 18 Jun 2017 00:32:36 -0400</pubDate>
+      
+      <guid>/gallery/test2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>testgallery</title>
+      <link>/gallery/testgallery/</link>
+      <pubDate>Sun, 18 Jun 2017 00:20:16 -0400</pubDate>
+      
+      <guid>/gallery/testgallery/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text</title>
+      <link>/blog/text/</link>
+      <pubDate>Sat, 17 Jun 2017 23:58:22 -0400</pubDate>
+      
+      <guid>/blog/text/</guid>
+      <description>\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \]</description>
+    </item>
+    
+    <item>
+      <title>Welcome to OML</title>
+      <link>/blog/welcome/</link>
+      <pubDate>Sat, 17 Jun 2017 22:01:57 -0400</pubDate>
+      
+      <guid>/blog/welcome/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam imperdiet urna et velit fringilla dictum. Duis eu tempus ipsum, sit amet volutpat arcu. Nullam hendrerit vestibulum ipsum ut interdum. Cras tincidunt, dolor sit amet commodo tempus, arcu elit finibus orci, id gravida augue ex vehicula ante. Donec ut tortor vel urna porta condimentum sed et risus. Duis posuere eget sapien quis hendrerit. Etiam egestas iaculis auctor. Ut congue sollicitudin nulla a vulputate.</description>
+    </item>
+    
+  </channel>
+</rss>
