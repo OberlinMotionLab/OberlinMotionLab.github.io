@@ -42,7 +42,7 @@
         <link rel="icon" type="image/png" sizes="192x192"  href="images/logo/android-icon-192x192.png">
         <link rel="icon" type="image/png" sizes="32x32" href="http://OberlinMotionLab.github.io/images/logo/favicon-32x32.png">
         <link rel="icon" type="image/png" sizes="96x96" href="http://OberlinMotionLab.github.io/images/logo/favicon-96x96.png">
-        <link rel="icon" type="image/png" sizes="16x16" href="http://OberlinMotionLab.github.io/images/logo/favicon-16x16.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="http://OberlinMotionLab.github.io/favicon.ico">
         <link rel="manifest" href="images/logo/manifest.json">
         <meta name="msapplication-TileColor" content="#FFF">
         <meta name="msapplication-TileImage" content="/images/logo/ms-icon-144x144.png">
@@ -64,7 +64,7 @@
 
         <nav class="row middle-xs center-xs">
             <div class="col-xs-6 col-sm-1 logo">
-                <a href="http://OberlinMotionLab.github.io/"><img src="http://OberlinMotionLab.github.io/images/Mlogo.png" alt="Oberlin Motion Lab"></a>
+                <a href="http://OberlinMotionLab.github.io/"><img src="http://OberlinMotionLab.github.io/images/ColorWorkingLogo.png" alt="Oberlin Motion Lab"></a>
             </div>
             
             <div class="col-xs-3 col-md-2"><h3><a href="http://OberlinMotionLab.github.io/#work">Projects</a></h3></div>
@@ -152,31 +152,27 @@
             
             <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
             <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.10.0/highlight.min.js"></script>
-            <script type="text/x-mathjax-config">
-MathJax.Hub.Config({
-  tex2jax: {
-    inlineMath: [['$','$'], ['\\(','\\)']],
-    displayMath: [['$$','$$'], ['\[','\]']],
-    processEscapes: true,
-    processEnvironments: true,
-    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
-    TeX: { equationNumbers: { autoNumber: "AMS" },
-         extensions: ["AMSmath.js", "AMSsymbols.js"] }
-  }
-});
-</script>
+            <script type="text/x-mathjax-config">MathJax.Hub.Config({
+              tex2jax: {
+              inlineMath: [['$','$'], ['\\(','\\)']],
+              displayMath: [['$$','$$'], ['\[','\]']],
+              processEscapes: true,
+              processEnvironments: true,
+              skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+              TeX: { equationNumbers: { autoNumber: "AMS" },
+              extensions: ["AMSmath.js", "AMSsymbols.js"] }
+              }
+              });
+            </script>
 
-<script type="text/x-mathjax-config">
-  MathJax.Hub.Queue(function() {
-    // Fix <code> tags after MathJax finishes running. This is a
-    // hack to overcome a shortcoming of Markdown. Discussion at
-    // https://github.com/mojombo/jekyll/issues/199
-    var all = MathJax.Hub.getAllJax(), i;
-    for(i = 0; i &lt; all.length; i += 1) {
-        all[i].SourceElement().parentNode.className += ' has-jax';
-    }
-});
-</script>
+            <script type="text/x-mathjax-config">  MathJax.Hub.Queue(function() {
+              // Fix <code> tags after MathJax finishes running. This is a
+                // hack to overcome a shortcoming of Markdown. Discussion at
+                // https://github.com/mojombo/jekyll/issues/199
+                var all = MathJax.Hub.getAllJax(), i;
+                for(i = 0; i &lt; all.length; i += 1) { all[i].SourceElement().parentNode.className += ' has-jax';}
+             });
+             </script>
         </footer>
     </body>
 </html>
