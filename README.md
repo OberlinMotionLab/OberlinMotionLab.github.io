@@ -1,2 +1,2 @@
-# OberlinMotionLab.github.io
-The Oberlin Motion Lab github page repo 
+# DO NOT CLONE THIS REPO
+This is a submodule for the [website repo](https://github.com/OberlinMotionLab/HugoSite).
