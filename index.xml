@@ -40,15 +40,6 @@
     </item>
     
     <item>
-      <title>text</title>
-      <link>http://OberlinMotionLab.github.io/blog/text/</link>
-      <pubDate>Sat, 17 Jun 2017 23:58:22 -0400</pubDate>
-      
-      <guid>http://OberlinMotionLab.github.io/blog/text/</guid>
-      <description>When $a \ne 0$, there are two solutions to \(ax^2 + bx + c = 0\) and they are $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$</description>
-    </item>
-    
-    <item>
       <title>Welcome to OML</title>
       <link>http://OberlinMotionLab.github.io/blog/welcome/</link>
       <pubDate>Sat, 17 Jun 2017 22:01:57 -0400</pubDate>
